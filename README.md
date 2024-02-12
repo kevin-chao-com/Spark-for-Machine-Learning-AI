@@ -7,6 +7,13 @@ This is the my lesson notes and exercises for a LinkedIn course.
 
 1. Introduction to Spark and MLlib
 2. Data Preparation and Transformation
+	* Numeric:
+		* MinMaxScaler
+		* StandardScaler
+		* Bucketizer
+	* Text:
+		* Tokenizer
+		* HashingTF
 3. Clustering
 4. Classification
 5. Regression	

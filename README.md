@@ -19,8 +19,8 @@ This is the my lesson notes and exercises for a LinkedIn course.
 	* Hierarchical clustering with Bisecting K-means
 4. Classification
 	* Navie Bayes
-	* Decision trees
 	* Multilayer perceptron
+	* Decision trees
 5. Regression	
 6. Recommendations
  

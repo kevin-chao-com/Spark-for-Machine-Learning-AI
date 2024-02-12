@@ -4,3 +4,11 @@ This is the my lesson notes and exercises for a LinkedIn course.
 * The LinkedIn course:
 	* Spark for Machine Learning & AI by Dan Sullivan:
 	* https://www.linkedin.com/learning/spark-for-machine-learning-ai/welcome
+
+1. Introduction to Spark and MLlib
+2. Data Preparation and Transformation
+3. Clustering
+4. Classification
+5. Regression	
+6. Recommendations
+ 

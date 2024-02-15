@@ -1,5 +1,9 @@
 # Spark-for-Machine-Learning-AI
-This is the my lesson notes and exercises for a LinkedIn course.
+This is the my lesson notes and exercises for a LinkedIn course, Spark-for-Machine-Learning-AI.
+
+* Created by Kevin Chao (kevinchao@gmail.com)
+* https://www.linkedin.com/in/kevin-chao-com/
+* Latest updated on Feb 14, 2024
 
 * The LinkedIn course:
 	* Spark for Machine Learning & AI by Dan Sullivan:
